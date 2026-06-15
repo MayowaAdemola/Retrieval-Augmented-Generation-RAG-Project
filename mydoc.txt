@@ -1,0 +1,213 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANALYSIS OF SEAMLESS HR 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+ 
+Table of Figures: 
+Fig 1: Image showing the SeamlessHR dashboard 
+Fig 2: Image showing the SeamlessHR dashboard Cont. 
+Figure 3: Image showing Time Management Dashboard 
+Figure 4: Image showing Attendance Records 
+Figure 5: Image showing Scheduling 
+Figure 6: Image showing Request Creation 
+Figure 7: Image showing Request Creation Process 
+Figure 8: Image showing Tasks 
+Figure 9: Image showing The Tasks Sheets Creation 
+Figure 10: Image showing The Tasks Sheets Creation Cont. 
+Figure 11: Image showing The Tasks Sheets Creation Cont. 
+Figure 12: Image showing The Making Requests Process 
+Figure 13: Image showing Leave Application Process 
+Figure 14: Image showing Application for Deployment 
+Figure 15: Image showing how to Report a Grievance 
+Figure 16: Image showing list of Possible Offences 
+Figure 17: Image showing the Whistle Blow Process 
+Figure 18: Image showing the list of possible offences for whistle blowing 
+Figure 19: Image showing the whistle blowing form 
+Figure 20: Image showing how to request for exit 
+Figure 21: Image showing the application form for exit 
+Figure 22: Image showing how the payslip 
+Figure 23: Image showing payslips overview 
+Figure 24: Image showing the policies 
+Figure 25: Image showing the policy folder 
+ 
+Figure 26: Image showing the organogram 
+Figure 27: Image showing the organogram 
+Figure 28: Image showing the features under performance 
+Figure 29: Image showing how to Create a KPI 
+Figure 30: Image showing Candidate Filter during application process 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+What is SeamlessHR? 
+A platform used to maximize people’s end-to-end HR technology for hiring, training, and managing staff. It performs the core HR functions for a company, rather seamlessly. 
+Some of the biggest companies around the world use seamless HR (MTN, FCMB, STERLING, AXA) 
+Dashboard of Seamlesshr 
+
+Fig 1: Image showing the SeamlessHR dashboard 
+
+Fig 2: Image showing the SeamlessHR dashboard Cont. 
+ 
+Core components/HR functions: 
+1. Time management: Handles attendance, tasks and projects. Tracks the number of hours worked, number of absences, number of late and punctual resumption. 
+ 
+ 
+Figure 3: Image showing Time Management Dashboard 
+ 
+1a) Attendance: shows attendance records, schedule details, and requests.  
+ 
+The attendance summary also shows the number of penalties received, and can be filtered by weeks and months. 
+ 
+ 
+Figure 4: Image showing Attendance Records 
+The schedule can be likened to the google calendar. 
+ 
+Figure 5: Image showing Scheduling 
+ 
+The request tab is used to lay your request for either lateness, absence or overtime. 
+ 
+Figure 6: Image showing Request Creation  
+ 
+You would also have to give reasons for that request. 
+ 
+ 
+Figure 7: Image showing Request Creation Process 
+ 
+1b) Tasks: helps in tasks management. 
+Shows a report on the tasks 
+ 
+ 
+Figure 8: Image showing Tasks To create a new task.  
+ 
+Figure 9: Image showing The Tasks Sheets Creation 
+ 
+Figure 10: Image showing The Tasks Sheets Creation Cont. 
+1c) Projects: It is a view only screen to manage the projects. 
+ 
+Figure 11: Image showing The Tasks Sheets Creation Cont. 
+ 
+2. Making Requests: can either be leave, redeployment, grievance, or exit. 
+ 
+Figure 12: Image showing The Making Requests Process  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2a) Leave 
+Applying for a leave  
+ 
+Figure 12: Image showing Applying for Leave  
+ 
+Figure 13: Image showing Leave Application Process  
+ 
+2b) Redeployment 
+ 
+Figure 14: Image showing Application for Deployment 
+ 
+I tried applying for redeployment… didn’t work. 
+ 
+2c) Reporting grievances 
+ 
+This is how to report a grievance.  
+ 
+ 
+Figure 15: Image showing how to Report a Grievance 
+ 
+This is the list of possible offences that can be reported. 
+ 
+Figure 16: Image showing list of Possible Offences 
+ 
+If you want to report anonymously, you can whistleblow… 
+ 
+Figure 17: Image showing how to Blow a Whistle 
+ 
+ 
+ 
+Figure 18: Image showing the list of possible offences for whistle blowing 
+ 
+ 
+Figure 19: Image showing the whistle blowing form 
+ 
+Note that the whistleblowing form pops up at the bottom left corner of the screen.  
+ 
+2d) Exit: if you want to resign 
+ 
+Figure 20: Image showing how to request for exit 
+ 
+ 
+Figure 21: Image showing the application form for exit 
+ 
+3. Payroll: View your payslip  
+ 
+Figure 22: Image showing employee payslips 
+3b. Run and finance payroll (disburse payments etc.) 
+ 
+Figure 23: Image showing payslips overview 
+ 
+4. Company Info/Details: Has the company’s document and organogram 
+ 
+Figure 24: Image showing the policies 
+ 
+Figure 25: Image showing the policy folder 
+ 
+
+Figure 26: Image showing the organogram 
+ 
+5. Performance management: 
+Can setup objectives, take appraisal, performance reviews, other evaluations, and so on. 
+ 
+ 
+Figure 27: Image showing the features under performance 
+ 
+To create a KPI 
+ 
+ 
+Figure 28: Image showing how to Create a KPI 
+5b. Recruitment assist: Help filter out candidates by category 
+ 
+Figure 29: Image showing Candidate Filter during application process 
