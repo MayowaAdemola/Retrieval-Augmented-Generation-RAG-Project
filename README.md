@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Fasyl RAG Project
 
 A simple Retrieval-Augmented Generation (RAG) chatbot built using Python and Ollama.
@@ -24,6 +25,4 @@ pip install ollama
 python demo.py
 ```
 
-## Team
 
-Group 2 - Fasyl Product Documentation
